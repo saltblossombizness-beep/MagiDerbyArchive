@@ -8,3 +8,7 @@ _Initial release._
 - Added all main chapters in HTML file after exporting them with [FicHub.net](ficHub.net).
 - Added relevant Information files
 - Added Media images.
+
+
+# Todo
+- Export Sidestories and Apocrypha.
